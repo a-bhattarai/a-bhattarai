@@ -18,12 +18,6 @@ $ cat currently-working-on.txt
   [+] TryHackMe — ethical hacking & penetration testing
   [+] CompTIA Security+ — in progress
   [+] OSINT tools & digital footprint investigation
-  [+] Digital Sewa — Nepal-focused medical app
-
-$ cat writing.txt
-  Tech & cybersecurity articles for CFC Pokhara
-  Topics: Nepal's digital landscape, security awareness,
-          life studying SE outside Kathmandu
 
 $ echo "Open to collaborations on cybersecurity & Nepal-focused tech"
   Open to collaborations on cybersecurity & Nepal-focused tech
