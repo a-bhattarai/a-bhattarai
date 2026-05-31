@@ -19,8 +19,8 @@ $ cat currently-working-on.txt
   [+] CompTIA Security+ — in progress
   [+] OSINT tools & digital footprint investigation
 
-$ echo "Open to collaborations on cybersecurity & Nepal-focused tech"
-  Open to collaborations on cybersecurity & Nepal-focused tech
+$ echo "Open to collaborations on cybersecurity"
+  Open to collaborations on cybersecurity
 ```
 
 <!--
